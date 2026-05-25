@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" />
+<img height="180" src="./profile/stats.svg" /> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true"><img height="180" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" /></a>
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,lua,bash,rust&theme=dark" />
 <br>
@@ -21,10 +21,6 @@
 ---
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true)
-
-<img src="./profile/terminal.gif" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanWng97/IvanWng97/output/github-snake-dark.svg" />
