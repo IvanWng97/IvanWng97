@@ -19,16 +19,6 @@
 
 ---
 
-<div align="center">
-
-### Pixel Stats
-
-<img src="./profile/pixel-stats-crt.svg" />
-
-</div>
-
----
-
 ### Tech Stack
 
 **Languages**
@@ -60,26 +50,6 @@
 ### Terminal
 
 <img src="./profile/terminal.gif" />
-
-</div>
-
----
-
-<div align="center">
-
-### Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanWng97&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 3D Contribution Graph
-
-<img src="./profile-3d-contrib/profile-night-green.svg" />
 
 </div>
 
