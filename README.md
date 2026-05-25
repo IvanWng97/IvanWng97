@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img height="140" src="./profile/stats.svg" /> &nbsp;&nbsp;&nbsp; <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true"><img height="140" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" /></a>
+<img height="140" src="./profile/stats.svg" /> &nbsp;&nbsp;&nbsp; <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true"><picture><source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" /><source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&mode=light" /><img height="140" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" /></picture></a>
 
 </div>
 
