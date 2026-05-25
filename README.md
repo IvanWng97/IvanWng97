@@ -35,6 +35,16 @@
 
 <div align="center">
 
+### Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true)
+
+</div>
+
+---
+
+<div align="center">
+
 ### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanWng97&theme=tokyo-night&hide_border=true" />
