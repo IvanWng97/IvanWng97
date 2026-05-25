@@ -4,15 +4,23 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
-<img height="160" src="./profile/stats.svg" /> <img height="160" src="https://streak-stats.demolab.com?user=IvanWng97&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="160" src="./profile/top-langs.svg" />
+---
+
+<div align="center">
+
+<img src="./profile/stats.svg" />
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,lua,bash,rust&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=neovim,docker,git,githubactions,linux&theme=dark" />
 
-<br>
+</div>
+
+---
+
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true)
 
