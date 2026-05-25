@@ -7,12 +7,12 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IvanWng97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="./profile/stats.svg" />
   <img height="170" src="https://streak-stats.demolab.com?user=IvanWng97&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanWng97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="./profile/top-langs.svg" />
 </div>
 
 ---
