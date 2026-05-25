@@ -35,16 +35,6 @@
 
 <div align="center">
 
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=IvanWng97&theme=tokyonight&no-frame=true&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanWng97&theme=tokyo-night&hide_border=true" />
