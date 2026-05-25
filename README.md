@@ -1,6 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6791c9,100:6AD3F7&height=180&section=header&text=&fontSize=0" />
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ivan;%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97;Will+this+world+get+better%3F)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
 </div>
 
@@ -13,6 +17,16 @@
 
 <div align="center">
   <img height="170" src="./profile/top-langs.svg" />
+</div>
+
+---
+
+<div align="center">
+
+### Pixel Stats
+
+<img src="./profile/pixel-stats-crt.svg" />
+
 </div>
 
 ---
@@ -45,9 +59,29 @@
 
 <div align="center">
 
+### Terminal
+
+<img src="./profile/terminal.gif" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanWng97&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 3D Contribution Graph
+
+<img src="./profile-3d-contrib/profile-night-green.svg" />
 
 </div>
 
@@ -64,3 +98,5 @@
 </picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD3F7,50:6791c9,100:1a1b27&height=120&section=footer" />

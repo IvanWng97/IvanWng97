@@ -1,0 +1,32 @@
+name: Pixel Profile CRT Card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate CRT stats card
+        uses: LuciNyan/pixel-profile/action@main
+        with:
+          crt_outputs: |
+            dist/pixel-stats-crt?username=${{ github.repository_owner }}&include_all_commits=true
+
+      - name: Commit to main
+        run: |
+          mkdir -p profile
+          cp dist/* profile/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "Update pixel profile CRT card" || exit 0
+          git push
