@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ivan;%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97;Will+this+world+get+better%3F)](https://git.io/typing-svg)
 
-![Status](https://img.shields.io/badge/status-offline_%28out_of_tokens%29-red?style=flat-square)
+![Status](https://img.shields.io/badge/503-brain.exe_needs_tokens_to_run-red?style=flat-square)
 
 </div>
 
