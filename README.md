@@ -1,16 +1,34 @@
-<div align="center">
+<a href="https://ivanwng97.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ivanwng97.com/og.jpg">
+    <img src="https://ivanwng97.com/og-light.jpg" alt="Ivan. Mobile dev. Building small things in my spare time. A cartoon of him on a sofa with his laptop, in a little room with a bookshelf, a turntable and a road bike.">
+  </picture>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ivan;%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97;Will+this+world+get+better%3F)](https://git.io/typing-svg)
+[Website](https://ivanwng97.com) &nbsp; [Instagram](https://instagram.com/ivanwng97) &nbsp; [LinkedIn](https://www.linkedin.com/in/ivanwng97) &nbsp; [Email](mailto:hi@ivanwng97.com)
 
-![Status](https://img.shields.io/badge/503-brain.exe_needs_tokens_to_run-red?style=flat-square)
+<a href="https://ivanwng97.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ivanwng97.com/api/now-playing.svg?theme=dark">
+    <img src="https://ivanwng97.com/api/now-playing.svg?theme=light" alt="What Ivan is listening to on Spotify right now.">
+  </picture>
+</a>
 
-</div>
+### Projects
 
----
+<a href="https://pixtuoid.dev"><img src="https://ivanwng97.com/pixtuoid.png" width="320" align="right" alt="pixtuoid's office in pixel art: agents at their desks under name tags, beside a lounge."></a>
 
-<div align="center">
+**[pixtuoid](https://pixtuoid.dev)**. Your AI coding agents, visualized as pixel-art coworkers in a terminal office.
 
-<img height="140" src="./profile/stats.svg" /> &nbsp;&nbsp;&nbsp; <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&redirect=true"><picture><source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" /><source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&mode=light" /><img height="140" src="https://spotify-github-profile.kittinanx.com/api/view?uid=317pnurcauazlgqo2ucyov7l27sa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" /></picture></a>
+```sh
+brew install pixtuoid
+```
 
-</div>
+[Source on GitHub](https://github.com/pixtuoid/pixtuoid)
 
+<br clear="right">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img height="140" src="./profile/stats.svg" alt="Ivan's GitHub stats.">
+</picture>

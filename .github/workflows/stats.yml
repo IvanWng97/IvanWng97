@@ -13,12 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Two cards in ivanwng97.com's palette, light and dark, which README's <picture> picks between.
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&count_private=true&bg_color=f6f4fb&title_color=5b3fd1&icon_color=5b3fd1&text_color=4a4866
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&count_private=true&bg_color=1a1c45&title_color=ffcf8a&icon_color=ffcf8a&text_color=b9b6cf
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
