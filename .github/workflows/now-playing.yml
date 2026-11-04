@@ -1,0 +1,38 @@
+name: Check the now-playing card
+
+# The README's now-playing card reads Spotify through ivanwng97.com. Spotify's refresh token dies
+# six months after consent and refreshing never extends it, so this fails a month before that,
+# or as soon as the token stops working; a failed scheduled run notifies whoever created it.
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask the site whether its Spotify token is healthy and when it must be renewed
+        env:
+          RENEW: https://ivanwng97.com/api/spotify/login
+          WARN_DAYS: 30
+        run: |
+          status=$(curl -fsS https://ivanwng97.com/api/spotify/status)
+          echo "$status"
+          if ! jq -e '.healthy' <<<"$status" >/dev/null; then
+            echo "::error::The now-playing card can't reach Spotify. Consent again at $RENEW"
+            exit 1
+          fi
+          renew_by=$(jq -r '.renewBy // empty' <<<"$status")
+          if [ -z "$renew_by" ]; then
+            echo "::error::No consent date on record. Consent again once at $RENEW"
+            exit 1
+          fi
+          days_left=$(( ($(date -d "$renew_by" +%s) - $(date +%s)) / 86400 ))
+          if [ "$days_left" -le "$WARN_DAYS" ]; then
+            echo "::error::Spotify's consent runs out in $days_left days. Consent again at $RENEW"
+            exit 1
+          fi
+          echo "Healthy; $days_left days until the consent must be renewed."
