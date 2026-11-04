@@ -9,11 +9,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-  <img height="120" src="./profile/stats.svg" alt="Ivan's GitHub stats.">
+  <img height="108" src="./profile/stats.svg" alt="Ivan's GitHub stats.">
 </picture>
 <a href="https://ivanwng97.com"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ivanwng97.com/api/now-playing.svg?theme=dark">
-  <img height="120" src="https://ivanwng97.com/api/now-playing.svg?theme=light" alt="What Ivan is listening to on Spotify right now.">
+  <img height="108" src="https://ivanwng97.com/api/now-playing.svg?theme=light" alt="What Ivan is listening to on Spotify right now.">
 </picture></a>
 
 ### Projects
