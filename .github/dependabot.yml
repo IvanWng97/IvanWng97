@@ -1,0 +1,8 @@
+# The workflows pin each action to a commit (a tag can be moved to new code that would then run
+# with this repo's write token); Dependabot proposes the bumps so the pins don't go stale.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
